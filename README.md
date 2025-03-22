@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">A passionate aiml and full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=9434e7a2d783e043&q=aiml+image&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqel3rTRMIJGV_ECIUB00muput9Zp8VMKUi0ZjqPs3JlrgNjQ9rOqRdXcDwEBQ82jIzIeJKF_t4xlLNL8OlcUPXuD4mOHi5CwSvqoRYVHDp8kIKIKk9txe0fwpxc-El6CFYl-jFdhssameWHw9C9RusrnI0QBZA&sa=X&ved=2ahUKEwi_7qn595yMAxWydPUHHUkwBD0QtKgLegQIERAB&biw=1280&bih=632&dpr=1.5#vhid=lx5fvdJIBCMfyM&vssid=mosaic">
-
+<img align="right" alt="Coding" width="400" src="https://trinitylifesciences.com/webinars/artificial-intelligence-machine-learning-101/>
 - 🔭 I’m currently **a student at centurion university**
 
 - 🌱 I’m currently learning **backend**
